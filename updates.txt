@@ -8,3 +8,12 @@ To trck the file or to create stage of the file
 git add file_name (for each file)
 git add . (for whole file)
 
+to create a snapshot/ version
+git commit -m"any message"
+
+To check the status of git
+git status
+
+To check my updates log
+git log
+
