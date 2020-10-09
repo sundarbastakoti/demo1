@@ -1,0 +1,10 @@
+To initialize git into directory
+git init (on the folder where we are going to initialize git)
+
+To create any file
+touch file_name
+
+To trck the file or to create stage of the file
+git add file_name (for each file)
+git add . (for whole file)
+
