@@ -14,6 +14,23 @@ git commit -m"any message"
 To check the status of git
 git status
 
+
 To check my updates log
 git log
 
+TO check the available branch
+git branch
+(* or green denote curent branch)
+
+To create a new branch
+git branch <branch name>
+
+To checkout into branch
+git checkout -b <branch name>
+
+To delete the branch
+git branch -d <branch name>
+
+To merge the branch
+-First of all you need to be in destination branch
+git merge <branch name>
